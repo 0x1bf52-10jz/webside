@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "MisansHeavy";
+    src: url(fonts/MiSans-Heavy.ttf) format('truetype');
+}
+HomePage#1{
+    font-family:"MisansHeavy";
+}
